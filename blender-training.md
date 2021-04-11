@@ -80,6 +80,8 @@
 # ドーナッツをつくる
 - 上に乗っているアイスを作るときは、Faceに対して、snapが効くようにするといい。
 - compositingタブでポストエフェクトをかける
+- Lv.1 ![donuts](https://user-images.githubusercontent.com/6258669/114292829-66955280-9acc-11eb-810e-35efc4a13bdb.png)
+
 
 # レンダリング
 - 0 でカメラのビューに変更する
