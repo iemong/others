@@ -17,3 +17,6 @@
 ## 線形探索法
 一つ一つ順番に調べてく方法。計算量はO(N)
 使い途: 条件を満たす場所(index)を知る。最小値を求める。ペアを探す。部分和。
+
+## wip 演習
+https://codepen.io/kiyoshidainagon/pen/abJvjxG
